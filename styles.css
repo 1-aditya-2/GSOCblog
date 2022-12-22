@@ -1,0 +1,178 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  /* line-height: 1.5; */
+  font-weight: 900;
+}
+
+h3{
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: left;
+  color:#54BAB9;
+}
+
+body{
+  font-family: "Montserrat";
+  background-color: #F7ECDE;
+}
+
+
+.container-fluid{
+  padding:0.5% 3% 0 3%;
+}
+
+.navbar{
+  padding:0 0 1.5rem;
+}
+
+.nav-item{
+  padding:0 20px;
+}
+
+.nav-link{
+  font-size:1.2rem;
+  font-family: "Montserrat-light";
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+  padding-right: 60%;
+
+}
+
+#title{
+  background-color: #54BAB9;
+  color:white;
+
+}
+
+
+.row{
+  padding:1% 12% 2% 15%;
+  position: relative;
+}
+
+
+.image-title{
+  width:10%;
+  left:56%;
+  bottom:15%;
+position: absolute;
+}
+
+/* .vector{
+  width:17%;
+  left:80%;
+  bottom:1px;
+  top:-50px;
+  position:absolute;
+} */
+
+
+
+.cardL1{
+  height:500px;
+  width:80%;
+  margin:15px 15px;
+  position: relative;
+  /* background-color: #E9DAC1; */
+}
+
+.imageL1{
+  width:30%;
+  position:absolute;
+  left:90%;
+  bottom:2%;
+}
+
+.cardR1{
+  height:275px;
+  width:80%;
+  background-color: #9ED2C6;
+  margin:15px 15px 15px 20%;
+  position: relative;
+}
+.imageR1{
+  width:35%;
+  position:absolute;
+  right: 100%;
+  bottom:4%;
+}
+
+.cardL2{
+  height:325px;
+  width:80%;
+  margin:15px 15px;
+  position: relative;
+  /* background-color: #E9DAC1; */
+
+}
+
+.imageL2{
+  width:25%;
+  position:absolute;
+  left:90%;
+  bottom:11%;
+}
+
+
+.cardR2{
+  height:300px;
+  width:80%;
+  background-color: #9ED2C6;
+  margin:15px 15px 15px 20%;
+  position: relative;
+}
+.imageR2{
+  width:30%;
+  position:absolute;
+  right: 100%;
+  bottom:7%;
+}
+
+.innerL
+{
+  padding:20px 100px 20px 20px ;
+  margin:1.7%;
+  /* background-color: white; */
+  position: absolute;
+  height:90%;
+  width:90%;
+}
+
+.innerR
+{
+  padding:20px 0px 20px 20px ;
+  left:10%;
+  top:5%;
+  /* background-color: white; */
+  position: absolute;
+  height:90%;
+  width:90%;
+}
+
+.titleL{
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: left;
+  color:black;
+}
+
+.titleR{
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: left;
+  color:white;
+}
+
+.bodyR{
+  color:white;
+}
